@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beach-event/static/css/main.3cdcfb40.css",
+    "main.js": "/beach-event/static/js/main.1f115d91.js",
+    "index.html": "/beach-event/index.html",
+    "main.3cdcfb40.css.map": "/beach-event/static/css/main.3cdcfb40.css.map",
+    "main.1f115d91.js.map": "/beach-event/static/js/main.1f115d91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cdcfb40.css",
+    "static/js/main.1f115d91.js"
+  ]
+}
